@@ -1,9 +1,9 @@
-### Hey yo! 👋🏿🤓 I'm Richard
+### Hey yo! 👋🏾🤓 I'm Richard
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏾‍💻 &nbsp;About Me </h3>
 
 - 🌱 &nbsp; Interested in cybersecurity
-- ✍🏿 &nbsp; Currently learning bash scripting
+- ✍🏾 &nbsp; Currently learning bash scripting
 - 🤔 &nbsp; Exploring new technologies, developing software solutions, and reading novels.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -23,7 +23,7 @@
 
 <br/>
 
-<h3> 🤝 &nbsp;Connect with Me </h3>
+<h3> 🤝🏾 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.facebook.com/rly0nheart/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rly0nheart-blue?style=flat&logo=Facebook"></a>
