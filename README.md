@@ -1,4 +1,4 @@
-### Hey there! 👋🏿🤓 I'm Richard
+### Hey yo! 👋🏿🤓 I'm Richard
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
