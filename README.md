@@ -34,4 +34,4 @@
 <a href="https://www.reddit.com/u/rly0nheart/"><img  alt="Reddit" src="https://img.shields.io/badge/Reddit-u/rly0nheart-orange?style=flat&logo=reddit"></a>
 </p>
 
-⭐️ From [rlyonheart](https://github.com/rlyonheart)
+⭐️ From [Richard Mwewa](https://about.me/rlyonheart)
