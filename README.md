@@ -1,10 +1,11 @@
 ### Hey yo! 👋🏾🤓 I'm Richard
 
-<h3> 👨🏾‍💻 &nbsp;About Me </h3>
+<h3> 👤 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Interested in cybersecurity
-- ✍🏾 &nbsp; Currently learning bash scripting
-- 🤔 &nbsp; Exploring new technologies, developing software solutions, and reading novels.
+- 🌱 &nbsp; Interested in cybersecurity.
+- 📓 &nbsp; Reading random books.
+- ✍🏾 &nbsp; Currently learning bash scripting.
+- 🤔 &nbsp; Exploring new technologies, and developing software solutions.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
