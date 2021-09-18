@@ -20,8 +20,8 @@
 <br/>
 
 <a href="https://github.com/rlyonheart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlyonheart&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlyonheart&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlyonheart&theme=blue-green&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlyonheart&theme=blue-green&layout=compact" />
 </a>
 
 <br/>
