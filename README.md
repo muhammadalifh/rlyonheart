@@ -32,7 +32,7 @@
 <a href="https://www.facebook.com/rly0nheart/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-rly0nheart-blue?style=flat&logo=Facebook"></a>
 <a href="https://www.instagram.com/rlyonheart/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-rlyonheart-blue?style=flat&logo=instagram"></a>
 <a href=" https://www.twitter.com/rly0nheart/"><img alt="Twitter" src="https://img.shields.io/twitter/follow/rly0nheart">
-<a href="https://www.reddit.com/u/rly0nheart/"><img  alt="Reddit" src="https://img.shields.io/badge/Reddit-u/rly0nheart-orange?style=flat&logo=reddit"></a>
+
 </p>
 
 ⭐️ From [Richard Mwewa](https://about.me/rlyonheart)
