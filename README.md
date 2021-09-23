@@ -17,13 +17,13 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
 
-<br/>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlyonheart)](https://git.io/streak-stats)
+<br/>
 <a href="https://github.com/rlyonheart">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlyonheart&theme=blue-green&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlyonheart&theme=blue-green&layout=compact" />
 </a>
-
 <br/>
 
 <h3> 🤝🏾 &nbsp;Connect with Me </h3>
