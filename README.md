@@ -7,7 +7,6 @@
 - ✍🏾 &nbsp; Currently learning bash scripting.
 - 🤔 &nbsp; Exploring new technologies, and developing software solutions.
 
-[![Visits Badge](https://badges.pufler.dev/visits/rlyonheart/git-badges)](https://badges.pufler.dev)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
