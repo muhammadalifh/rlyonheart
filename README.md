@@ -7,6 +7,7 @@
 - ✍🏾 &nbsp; Currently learning bash scripting.
 - 🤔 &nbsp; Exploring new technologies, and developing software solutions.
 
+[![Visits Badge](https://badges.pufler.dev/visits/rlyonheart/git-badges)](https://badges.pufler.dev)
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -21,8 +22,8 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlyonheart)](https://git.io/streak-stats)
 <br/>
 <a href="https://github.com/rlyonheart">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlyonheart&theme=blue-green&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlyonheart&theme=blue-green&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rlyonheart&theme=vue&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rlyonheart&theme=vue&layout=compact" />
 </a>
 <br/>
 
