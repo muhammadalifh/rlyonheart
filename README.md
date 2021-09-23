@@ -1,8 +1,7 @@
-### Hey yo! 👋🏾🤓 I'm Richard
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm a Python Programmer and Open Source Contributor. I also like Cybersecurity and I'm exploring Linux </samp></h4>
 
 <h3> 👤 &nbsp;About Me </h3>
 
-- 🌱 &nbsp; Interested in cybersecurity.
 - 📓 &nbsp; Reading random books.
 - ✍🏾 &nbsp; Currently learning bash scripting.
 - 🤔 &nbsp; Exploring new technologies, and developing software solutions.
