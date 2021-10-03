@@ -6,12 +6,6 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rlyonheart&theme=onedark)
 
-<h3> 👤 &nbsp;About Me </h3>
-
-- 📓 &nbsp; Reading random books.
-- ✍🏾 &nbsp; Currently learning bash scripting.
-- 🤔 &nbsp; 
-
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
