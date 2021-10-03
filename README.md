@@ -2,20 +2,9 @@
 
 
 
-<h4 align="center"><samp> Hi there welcome to my Github! I'm a Python Programmer and Open Source Contributor. I also like Cybersecurity and I'm exploring new technologies, and developing software solutions. </samp></h4>
+<h4 align="center"><samp> Hi there, welcome to my Github! I'm a Python Programmer and Open Source Contributor. I also like Cybersecurity and I'm exploring new technologies, and developing software solutions. </samp></h4>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=rlyonheart&theme=onedark)
-
-<h3> 🛠 &nbsp;Tech Stack</h3>
-
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux)
-   
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rlyonheart)](https://git.io/streak-stats)
 <br/>
